@@ -1,4 +1,4 @@
-# Föreläsningsanteckningar
+# Föreläsningsanteckningar 1-6
 ## [Träd](https://en.wikipedia.org/wiki/Tree_(graph_theory))
 ![[Pasted image 20220831153841.png]]
 ![[Pasted image 20220831153909.png]]

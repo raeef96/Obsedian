@@ -7,8 +7,12 @@
         "id": "bdad61da20d40a74",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Övningar/Övningar.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Övningar/Övningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Övningar/Övningar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Övningar/Övningar.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0374de6f787636ab",
+  "active": "bdad61da20d40a74",
   "lastOpenFiles": [
+    "Anteckningar/Del 1.md",
+    "Övningar/Övningar.md",
+    "Övningar/Lösningar.md",
+    "Anteckningar/Del 2.md",
     "Övningar/Pdfs/ex01s (1).pdf",
     "Övningar/Pdfs.md",
     "Övningar/Pdfs/extrauppg22nr2 (1).pdf",
-    "Övningar/Lösningar.md",
-    "Övningar/Övningar.md",
     "Rekap/rekap.md",
     "Bilder/Pasted image 20220908135517.png",
-    "Bilder/Pasted image 20220908142933.png",
-    "Bilder/Pasted image 20220908143509.png",
-    "Bilder/Pasted image 20220831153612.png"
+    "Bilder/Pasted image 20220908142933.png"
   ]
 }
