@@ -7,12 +7,8 @@
         "id": "bdad61da20d40a74",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "anteckningar.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anteckningar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anteckningar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "anteckningar.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,9 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bdad61da20d40a74",
+  "active": "0374de6f787636ab",
   "lastOpenFiles": [
-    "rekap.md",
-    "anteckningar.md"
+    "Övningar/Pdfs/ex01s (1).pdf",
+    "Övningar/Pdfs.md",
+    "Övningar/Pdfs/extrauppg22nr2 (1).pdf",
+    "Övningar/Lösningar.md",
+    "Övningar/Övningar.md",
+    "Rekap/rekap.md",
+    "Bilder/Pasted image 20220908135517.png",
+    "Bilder/Pasted image 20220908142933.png",
+    "Bilder/Pasted image 20220908143509.png",
+    "Bilder/Pasted image 20220831153612.png"
   ]
 }
