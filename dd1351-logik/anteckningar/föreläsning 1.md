@@ -6,13 +6,16 @@ tåget kom för sent (p = falskt)
 
 därför fanns det någon taxi vid stationen(q måste då vara sann)
 
-##satslogik##
+## satslogik
+
 
 enkla satser : består av variabler p,q,r.....v
 konnektiv : ^,∨,→,¬
 sammansatta satser: p^q , r→¬p
 
-sanningstabell:
+## Sanningstabell :
+
+
 ![[Pasted image 20220906103930.png]]
 ![[Pasted image 20220906103941.png]]
 

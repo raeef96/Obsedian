@@ -1,7 +1,5 @@
-# Föreläsning 2
+
 ![[Pasted image 20220908105613.png]]
-
-
 
 ![[Pasted image 20220908105416.png]]
 ![[Pasted image 20220908105533.png]]
