@@ -98,7 +98,7 @@
 ![[Pasted image 20220905143638.png]]
 ## [Duala grafer](https://sv.wikipedia.org/wiki/Dualgraf)
 ![[Pasted image 20220905145126.png]]
-![[Pasted image 20220905145137.png]]
+ ![[Pasted image 20220905145137.png]]
 
 ![[Pasted image 20220905145151.png]]
 ![[Pasted image 20220905145720.png]]
