@@ -3,7 +3,7 @@
 ## Föreläsning 2
 ![[Pasted image 20220831153527.png]]
 
-##  Föreläsning 3
+## Föreläsning 3
 ![[Pasted image 20220908130110.png]]
 ![[Pasted image 20220908130124.png]]
 ## Föreläsning 4
@@ -15,3 +15,9 @@
 ![[Pasted image 20220910113346.png]]
 ![[Pasted image 20220910113356.png]]
 
+
+## Förelsäning 7 
+![[Pasted image 20220916032137.png]]
+
+## Föreläsning 8
+![[Pasted image 20220916032226.png]]

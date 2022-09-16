@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Anteckningar/Del 1.md",
+            "file": "Rekap/rekap.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anteckningar/Del 1.md",
+                "file": "Rekap/rekap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anteckningar/Del 1.md",
+                "file": "Rekap/rekap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anteckningar/Del 1.md"
+                "file": "Rekap/rekap.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "2a034ad45119085e",
   "lastOpenFiles": [
-    "Bilder/Pasted image 20220910115832.png",
-    "Anteckningar/Del 1.md",
     "Övningar/Övningar.md",
+    "Anteckningar/Del 1.md",
+    "Bilder/Pasted image 20220910115832.png",
     "Övningar/Pdfs/extrauppg22nr1 (1).pdf",
     "Övningar/Lösningar.md",
     "Bilder/Pasted image 20220910113754.png",

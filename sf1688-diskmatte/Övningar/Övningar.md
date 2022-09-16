@@ -10,3 +10,9 @@
 
 
 
+
+# Övning 4
+![[extrauppg22nr4 (1) 1.pdf]]
+
+# Övning 5
+![[extrauppg22nr5.pdf]]
