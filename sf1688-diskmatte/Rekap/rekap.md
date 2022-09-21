@@ -26,7 +26,8 @@
 ![[rekap09.pdf]]
 
 ## Föreläsning 10
+![[rekap10.pdf]]
 
 ## Föreläsning 11
-
+![[rekap11.pdf]]
 

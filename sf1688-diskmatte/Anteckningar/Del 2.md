@@ -77,3 +77,4 @@
 ![[Pasted image 20220921160028.png]]
 
 # Föreläsning 11
+
