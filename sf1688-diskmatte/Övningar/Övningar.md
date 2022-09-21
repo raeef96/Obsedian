@@ -16,3 +16,5 @@
 
 # Övning 5
 ![[extrauppg22nr5.pdf]]
+
+# Övning 6
