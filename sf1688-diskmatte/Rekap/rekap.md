@@ -21,3 +21,13 @@
 
 ## Föreläsning 8
 ![[Pasted image 20220916032226.png]]
+
+## Föreläsning 9
+![[rekap09.pdf]]
+
+## Föreläsning 10
+![[rekap10.pdf]]
+
+## Föreläsning 11
+![[rekap11.pdf]]
+
