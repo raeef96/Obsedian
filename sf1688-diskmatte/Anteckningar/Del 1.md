@@ -180,3 +180,14 @@
 ![[Pasted image 20220914141711.png]]
 ![[Pasted image 20220914141728.png]]
 ![[Pasted image 20220914141735.png]]
+
+# Föreläsning 9
+![[Pasted image 20220917123415.png]]
+![[Pasted image 20220917123539.png]]
+![[Pasted image 20220917123557.png]]
+![[Pasted image 20220917123732.png]]
+![[Pasted image 20220917123836.png]]
+![[Pasted image 20220917123854.png]]
+![[Pasted image 20220917123908.png]]
+![[Pasted image 20220917123934.png]]
+![[Pasted image 20220917123945.png]]
