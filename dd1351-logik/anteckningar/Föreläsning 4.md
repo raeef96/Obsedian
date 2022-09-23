@@ -48,3 +48,20 @@ man kan inte avbilda en input på fler än en output
 ![[Pasted image 20220921202236.png]]
 ![[Pasted image 20220921202503.png]]
 ![[Pasted image 20220921202719.png]]
+## Logisk vs procedurell läsning 
+![[Pasted image 20220923004332.png]]
+## Bevisteori
+
+![[Pasted image 20220923004414.png]]
+![[Pasted image 20220923004513.png]]
+## Prolog exekvering
+![[Pasted image 20220923004543.png]]
+## Kontrollflöde
+![[Pasted image 20220923004724.png]]
+![[Pasted image 20220923004903.png]]
+![[Pasted image 20220923005005.png]]
+![[Pasted image 20220923005124.png]]
+## Aritmetik i Prolog
+![[Pasted image 20220923005156.png]]
+## I/O i prolog
+![[Pasted image 20220923005352.png]]
