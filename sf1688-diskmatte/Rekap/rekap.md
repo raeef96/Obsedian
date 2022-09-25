@@ -31,3 +31,6 @@
 ## Föreläsning 11
 ![[rekap11.pdf]]
 
+
+## Föreläsning 12
+![[rekap12.pdf]]

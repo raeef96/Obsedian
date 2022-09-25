@@ -18,3 +18,4 @@
 ![[extrauppg22nr5.pdf]]
 
 # Övning 6
+![[extrauppg22nr6.pdf]]
