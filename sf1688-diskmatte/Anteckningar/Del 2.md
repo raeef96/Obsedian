@@ -77,4 +77,37 @@
 ![[Pasted image 20220921160028.png]]
 
 # Föreläsning 11
+## Cykliska grupper
+![[Pasted image 20220925124809.png]]
+Om vi har ett element X som kan generera hela gruppen då kan vi säga att gruppen är cyklisk
+![[Pasted image 20220925125016.png]]
+## Direkt produkt av grupper
+![[Pasted image 20220925125055.png]]
+![[Pasted image 20220925125159.png]]
+![[Pasted image 20220925125217.png]]
+![[Pasted image 20220925133831.png]]
+![[Pasted image 20220925133852.png]]
+## Inverterbara element i Z
+![[Pasted image 20220925133923.png]]
+![[Pasted image 20220925134056.png]]
+## Delgrupper
+![[Pasted image 20220925134123.png]]
+![[Pasted image 20220925134240.png]]
+![[Pasted image 20220925134349.png]]
+![[Pasted image 20220925134404.png]]
+![[Pasted image 20220925134536.png]]
 
+# Föreläsning 12
+## Sidoklasser
+![[Pasted image 20220925134728.png]]
+![[Pasted image 20220925134753.png]]
+![[Pasted image 20220925134805.png]]
+## Lagrange sats
+![[Pasted image 20220925134903.png]]
+![[Pasted image 20220925135123.png]]
+![[Pasted image 20220925135150.png]]
+![[Pasted image 20220925135225.png]]
+![[Pasted image 20220925135244.png]]
+![[Pasted image 20220925135256.png]]
+## Alternerade gruppen An
+![[Pasted image 20220925135331.png]]
