@@ -7,11 +7,9 @@
         "id": "52e23ac744a6ef3b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Anteckningar/Del 2.md",
-            "mode": "source",
-            "source": false
+            "file": "Bilder/Pasted image 20220929152856.png"
           }
         }
       }
@@ -61,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "3ca9a9089b2868ed",
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anteckningar/Del 2.md",
+                "file": "Bilder/Pasted image 20220929152856.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anteckningar/Del 2.md",
+                "file": "Bilder/Pasted image 20220929152856.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anteckningar/Del 2.md"
+                "file": "Bilder/Pasted image 20220929152856.png"
               }
             }
           }
@@ -131,15 +128,15 @@
   },
   "active": "0374de6f787636ab",
   "lastOpenFiles": [
+    "Anteckningar/Del 3.md",
+    "Rekap/rekap.md",
+    "Bilder/Pasted image 20220929144318.png",
+    "Bilder/Pasted image 20220929144333.png",
+    "Bilder/Pasted image 20220929144345.png",
+    "Bilder/Pasted image 20220929144349.png",
+    "Bilder/Pasted image 20220929144347.png",
     "Anteckningar/Del 2.md",
     "Bilder/Pasted image 20220925124809.png",
-    "Anteckningar/Del 1.md",
-    "Övningar/Lösningar.md",
-    "Övningar/Övningar.md",
-    "Rekap/rekap.md",
-    "Bilder/Pasted image 20220910115832.png",
-    "Pdfs/extrauppg22nr1 (1).pdf",
-    "Bilder/Pasted image 20220910113754.png",
-    "().md"
+    "Anteckningar/Del 1.md"
   ]
 }
