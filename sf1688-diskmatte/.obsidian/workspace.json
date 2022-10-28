@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "52e23ac744a6ef3b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anteckningar/Del 3.md",
-            "mode": "source",
-            "source": false
+        "id": "70e32baac47101a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e23ac744a6ef3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anteckningar/Del 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f14dc47ceb13e95f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +47,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -128,6 +146,9 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "52e23ac744a6ef3b",
   "lastOpenFiles": [

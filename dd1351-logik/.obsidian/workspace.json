@@ -1,41 +1,49 @@
 {
   "main": {
-    "id": "1ff403017912fad0",
+    "id": "fac262cf197c83c2",
     "type": "split",
     "children": [
       {
-        "id": "52e23ac744a6ef3b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Anteckningar/Del 3.md",
-            "mode": "source",
-            "source": false
+        "id": "b598fb54d97fe581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f9ce959431fb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "anteckningar/föreläsning 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "de0a83899cb2b6b4",
+    "id": "2a6c757cc11c18de",
     "type": "split",
     "children": [
       {
-        "id": "9f8c4f2872a284b0",
+        "id": "10be4e794d4b0a81",
         "type": "tabs",
         "children": [
           {
-            "id": "0374de6f787636ab",
+            "id": "5eb4eccbc90f9ec7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "f94f7c0c253011ae",
+            "id": "536b5ba2437e0be1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +58,7 @@
             }
           },
           {
-            "id": "94dbcbcda5710f6e",
+            "id": "f1245e3aa0ad3ac5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -61,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "3ca9a9089b2868ed",
+    "id": "8f9b9f9abc23046f",
     "type": "split",
     "children": [
       {
-        "id": "fa3fe5da57d27bd3",
+        "id": "268b0ff9c54ffab7",
         "type": "tabs",
         "children": [
           {
-            "id": "07a78a0847e3b47b",
+            "id": "0949c98d52e0aee6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anteckningar/Del 3.md",
+                "file": "anteckningar/föreläsning 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +97,19 @@
             }
           },
           {
-            "id": "28284fde4cc49c8a",
+            "id": "15df08cca905b544",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anteckningar/Del 3.md",
+                "file": "anteckningar/föreläsning 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6341c5ce87d5e483",
+            "id": "7bee7815445b8380",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,12 +120,12 @@
             }
           },
           {
-            "id": "7f9effc7f523a8ce",
+            "id": "973ef15dfe4275be",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anteckningar/Del 3.md"
+                "file": "anteckningar/föreläsning 2.md"
               }
             }
           }
@@ -129,17 +136,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52e23ac744a6ef3b",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "55f9ce959431fb94",
   "lastOpenFiles": [
-    "Bilder/Pasted image 20220929152856.png",
-    "Anteckningar/Del 3.md",
-    "Rekap/rekap.md",
-    "Bilder/Pasted image 20220929144318.png",
-    "Bilder/Pasted image 20220929144333.png",
-    "Bilder/Pasted image 20220929144345.png",
-    "Bilder/Pasted image 20220929144349.png",
-    "Bilder/Pasted image 20220929144347.png",
-    "Anteckningar/Del 2.md",
-    "Bilder/Pasted image 20220925124809.png"
+    "anteckningar/Föreläsning 4.md",
+    "bilder/Pasted image 20220923005352.png",
+    "anteckningar/Föreläsning 3.md",
+    "anteckningar/föreläsning 2.md",
+    "anteckningar/föreläsning 1.md"
   ]
 }

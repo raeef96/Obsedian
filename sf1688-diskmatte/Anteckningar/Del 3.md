@@ -29,7 +29,7 @@
 
 ## Kinesiska restsatsen
 ![[Pasted image 20220929144613.png]]
-![[Pasted image 20220929144626.png]]
+![[Pasted image 20220929144626.png]] 
 ![[Pasted image 20220929144635.png]]
 ![[Pasted image 20220929144657.png]]
 ![[Pasted image 20220929144709.png]]
