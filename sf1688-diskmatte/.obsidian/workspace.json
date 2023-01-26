@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1ff403017912fad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b149d62ca9b10dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52e23ac744a6ef3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rekap/rekap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de0a83899cb2b6b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8c4f2872a284b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0374de6f787636ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f94f7c0c253011ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94dbcbcda5710f6e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "right": {
+    "id": "3ca9a9089b2868ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3fe5da57d27bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a78a0847e3b47b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rekap/rekap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28284fde4cc49c8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rekap/rekap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6341c5ce87d5e483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7f9effc7f523a8ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rekap/rekap.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "52e23ac744a6ef3b",
+  "lastOpenFiles": [
+    "Övningar/Övningar.md",
+    "Övningar/Lösningar.md",
+    "Anteckningar/Del 2.md",
+    "Anteckningar/Del 1.md",
+    "Bilder/Pasted image 20220925124809.png",
+    "Rekap/rekap.md",
+    "Bilder/Pasted image 20220910115832.png",
+    "Pdfs/extrauppg22nr1 (1).pdf",
+    "Bilder/Pasted image 20220910113754.png",
+    "().md"
+  ]
+}

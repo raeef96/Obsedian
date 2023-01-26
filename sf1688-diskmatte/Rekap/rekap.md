@@ -34,3 +34,5 @@
 
 ## Föreläsning 12
 ![[rekap12.pdf]]
+
+
