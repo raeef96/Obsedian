@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7b149d62ca9b10dd",
+        "id": "70e32baac47101a1",
         "type": "tabs",
         "children": [
           {
@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rekap/rekap.md",
+                "file": "Anteckningar/Del 3.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "f14dc47ceb13e95f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
               }
             }
           }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "3ca9a9089b2868ed",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rekap/rekap.md",
+                "file": "Anteckningar/Del 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rekap/rekap.md",
+                "file": "Anteckningar/Del 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rekap/rekap.md"
+                "file": "Anteckningar/Del 3.md"
               }
             }
           }
@@ -136,27 +147,20 @@
     "width": 300,
     "collapsed": true
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "52e23ac744a6ef3b",
   "lastOpenFiles": [
-    "Övningar/Övningar.md",
-    "Övningar/Lösningar.md",
-    "Anteckningar/Del 2.md",
-    "Anteckningar/Del 1.md",
-    "Bilder/Pasted image 20220925124809.png",
+    "Bilder/Pasted image 20220929152856.png",
+    "Anteckningar/Del 3.md",
     "Rekap/rekap.md",
-    "Bilder/Pasted image 20220910115832.png",
-    "Pdfs/extrauppg22nr1 (1).pdf",
-    "Bilder/Pasted image 20220910113754.png",
-    "().md"
+    "Bilder/Pasted image 20220929144318.png",
+    "Bilder/Pasted image 20220929144333.png",
+    "Bilder/Pasted image 20220929144345.png",
+    "Bilder/Pasted image 20220929144349.png",
+    "Bilder/Pasted image 20220929144347.png",
+    "Anteckningar/Del 2.md",
+    "Bilder/Pasted image 20220925124809.png"
   ]
 }

@@ -35,4 +35,6 @@
 ## Föreläsning 12
 ![[rekap12.pdf]]
 
+## Föreläsning 13
 
+## Föreläsning 14
